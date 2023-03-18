@@ -1,0 +1,7 @@
+item { id:17,name:'Cấm ngược chiều'}
+item { id:43,name:'Cấm dừng và đỗ'}
+item { id:44,name:'Cấm rẽ'}
+item { id:45,name:'Giới hạn tốc độ'}
+item { id:46,name:'Cấm còn lại'}
+item { id:47,name:'Nguy hiểm'}
+item { id:48,name:'Hiệu lệnh'}
